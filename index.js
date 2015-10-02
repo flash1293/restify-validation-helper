@@ -3,5 +3,6 @@ module.exports = {
   validatorFlow: require('./lib/validatorFlow'),
   errorFactory: require('./lib/errorFactory'),
   uncaughtExceptionHandler: require('./lib/uncaughtExceptionHandler'),
-  jsonValidator: require('./lib/jsonValidator')
+  jsonValidator: require('./lib/jsonValidator'),
+  errorHandler: require('./lib/errorHandler')
 };
