@@ -6,9 +6,9 @@
     "repository": "https://github.com/flash1293/restify-validation-helper.git",
     "author": "Johannes Reuter <email@johannes-reuter.de>",
     "dependencies": {
-        "restify": "4.0.0",
+        "restify": "4.0.0"
     },
-    "main": "index",
+    "main": "index.js",
     "engines": {
         "node": ">= 0.4.1"
     }
