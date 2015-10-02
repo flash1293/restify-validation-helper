@@ -1,0 +1,15 @@
+{
+    "name": "restify-validation-helper",
+    "version": "0.0.1",
+    "description": "Collection of helper-methods for validation of input-fields with restify",
+    "keywords": ["restify", "validation"],
+    "repository": "https://github.com/flash1293/restify-validation-helper.git",
+    "author": "Johannes Reuter <email@johannes-reuter.de>",
+    "dependencies": {
+        "restify": "4.0.0",
+    },
+    "main": "index",
+    "engines": {
+        "node": ">= 0.4.1"
+    }
+}
